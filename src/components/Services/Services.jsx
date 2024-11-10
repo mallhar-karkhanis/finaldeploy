@@ -61,14 +61,14 @@ const Services = () => {
                   }
                 >
                   <div className="h-[100px]">
-                    <img
+                   <a href="https://api.whatsapp.com/send?phone=917814772720&text=Hello%2C%20i%20need%20medicine%20"> <img
                       src={img}
                       alt=""
                       s
                       className={`${
                         id === 3 ? " h-[150px]" : "max-w-[200px]"
                       } mx-auto block transform -translate-y-14 group-hover:scale-105 group-hover:rotate-6 duration-300`}
-                    />
+                    /></a>
                   </div>
                   <div className="p-4 text-center">
                     <h1 className="text-xl font-bold">{name}</h1>
