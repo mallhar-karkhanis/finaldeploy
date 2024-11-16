@@ -2,7 +2,7 @@ import React from "react";
 import bgImg from "../../assets/website/vector3.jpg";
 import img1 from "../../assets/website/edited_image_ozu_logo_fixed.png";
 import img2 from"../../assets/website/qr.jpeg";
-import img3 from"../../assets/website/ozu.jpeg";
+import img3 from"../../assets/website/nightdelivery.jpeg";
 
 const ImageList = [
   { id: 1, img: img1 },
