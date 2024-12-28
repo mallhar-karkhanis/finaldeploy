@@ -9,7 +9,7 @@ const Footer = () => {
           
           {/* Company Info */}
           <div className="mb-6 md:mb-0">
-            <h2 className="text-3xl font-extrabold text-white">Medtips</h2>
+            <h2 className="text-3xl font-extrabold text-white">Medtipss</h2>
             <p className="text-gray-400 text-lg mt-2">Medicine Delivery in 30 Minutes</p>
           </div>
           
