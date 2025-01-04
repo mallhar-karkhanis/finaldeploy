@@ -1,9 +1,9 @@
  import React from 'react';
-import rev1 from "../../components/Testimonials/rev2.jpeg";
-import rev2 from "../../components/Testimonials/rev3.jpeg";
-import rev3 from "../../components/Testimonials/rev4.jpeg";
-import rev4 from "../../components/Testimonials/rev5.png";
-import rev5 from "../../components/Testimonials/rev6.png";
+import rev1 from "../../components/Testimonial/rev2.jpeg";
+import rev2 from "../../components/Testimonial/rev3.jpeg";
+import rev3 from "../../components/Testimonial/rev4.jpeg";
+import rev4 from "../../components/Testimonial/rev5.png";
+import rev5 from "../../components/Testimonial/rev6.png";
 
 const Testimonials = () => {
   const testimonialsData = [
