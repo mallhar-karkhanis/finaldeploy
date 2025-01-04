@@ -14,6 +14,7 @@ const App = () => {
     <Navbar />
     <Hero />
     <Services/>
+         <Testimonials/>
     
     <MedicalTourism />
     <Founders />
