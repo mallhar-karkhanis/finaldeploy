@@ -9,14 +9,14 @@ const ServicesData = [
     img: Img,
     name: "24/7 Delivery",
     description:
-      "Medtipss offers round the clock delivery of medicines right at your doorstep.",
+      "Medtipss offers round the clock delivery of health items right at your doorstep.",
   },
   {
     id: 2,
     img: Img2,
     name: "30 Mins Delivery",
     description:
-      "Medtipss helps to get medicines delivered at your doorstep within 30 Minutes",
+      "Medtipss helps to get health items delivered at your doorstep within 30 Minutes",
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const Services = () => {
             <h1 className="text-3xl font-bold">Services</h1>
             <p className="text-xs sm:text-sm lg:text-base text-black-400">
               {""}
-              MedTipss offers fast, 30-minute medicine delivery, available 24/7
+              MedTipss offers fast, 30-minute health items delivery, available 24/7
               across Navi Mumbai, bringing essential medications right to your
               doorstep. For medical tourists, we handle everything—from
               appointments to accommodations—so you can focus on your health.
@@ -88,3 +88,4 @@ const Services = () => {
 };
 
 export default Services;
+
