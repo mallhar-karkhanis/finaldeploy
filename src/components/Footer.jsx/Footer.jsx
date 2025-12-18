@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="mb-6 md:mb-0">
             <h2 className="text-3xl font-extrabold text-white">Medtipss</h2>
-            <p className="text-gray-400 text-lg mt-2">Medicine Delivery in 30 Minutes</p>
+            <p className="text-gray-400 text-lg mt-2">Health Items Delivery in 30 Minutes</p>
             <p className="text-gray-400 text-lg mt-2">504, Advance Galaxy, sec-20, Kharghar, Navi Mumbai Maharashtra,Pin-410210</p>
             <p className="text-gray-400 text-lg mt-2">Meydan Grandstand,6th floor,Meydan Road,Nad Al Sheba,Dubai,U.A.E.</p>
             
@@ -58,3 +58,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
