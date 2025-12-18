@@ -35,7 +35,7 @@ const Hero = () => {
                 Your Health, Our Priority
               </h1>
               <p  className="text-base sm:text-lg lg:text-xl ">
-              Get your medicines delivered right to your doorstep, anytime – 24/7 in Navi Mumbai!
+              Get your health items delivered right to your doorstep, anytime – 24/7 in Navi Mumbai!
               </p>
               <div>
 
