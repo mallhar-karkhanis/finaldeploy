@@ -38,7 +38,7 @@ const Services = () => {
             <p className="text-xs sm:text-sm lg:text-base text-black-400">
               {""}
               MedTipss offers fast, 30-minute health items delivery, available 24/7
-              across Navi Mumbai, bringing essential medications right to your
+              across Navi Mumbai, bringing essential needs right to your
               doorstep. For medical tourists, we handle everything—from
               appointments to accommodations—so you can focus on your health.
               With MedTipss, enjoy seamless healthcare support, whether local or
@@ -88,4 +88,5 @@ const Services = () => {
 };
 
 export default Services;
+
 
